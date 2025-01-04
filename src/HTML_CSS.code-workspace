@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Self-study/HTML_CSS"
+		},
+		{
+			"path": "../../../Phan_Tich_Du_Lieu_1"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "F8"
+	}
+}
